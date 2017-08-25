@@ -1,0 +1,1 @@
+"use strict";$(function(){var i=$(".docs-pictures"),r={url:"data-original"};i.viewer(r),cd});
