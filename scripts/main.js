@@ -1,1 +1,1 @@
-"use strict";$(function(){var i=$(".docs-pictures"),r={url:"data-original"};i.viewer(r),cd});
+"use strict";$(function(){var t=$(".docs-pictures"),i={url:"data-original"};t.viewer(i),$("#to-top").click(function(){$("html,body").animate({scrollTop:0},500)})});
